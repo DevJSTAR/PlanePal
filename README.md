@@ -16,14 +16,14 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 ![Image](https://i.imgur.com/3mS5uAD.png)
 
 ## [PlanePal Wiki](https://github.com/DevJSTAR/PlanePal/wiki)
-ℹ [About PlanePal](https://github.com/DevJSTAR/PlanePal/wiki/About-PlanePal)<br>
-💰 [Getting Started](https://github.com/DevJSTAR/PlanePal/wiki/Getting-Started)<br>
-🌟 [PlanePal Premium](https://github.com/DevJSTAR/PlanePal/wiki/Premium)<br>
-📜 [Full Command Reference](https://github.com/DevJSTAR/PlanePal/wiki/Commands)<br>
-⚠ [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting)
-🚩 [Blacklisting](https://github.com/DevJSTAR/PlanePal/wiki/Blacklisting)<br>
-📄 [Terms of Service](https://github.com/DevJSTAR/PlanePal/wiki/Terms)<br>
-🔐 [Privacy Policy](https://github.com/DevJSTAR/PlanePal/wiki/Privacy)<br>
+- ℹ [About PlanePal](https://github.com/DevJSTAR/PlanePal/wiki/About-PlanePal)<br>
+- 💰 [Getting Started](https://github.com/DevJSTAR/PlanePal/wiki/Getting-Started)<br>
+- 🌟 [PlanePal Premium](https://github.com/DevJSTAR/PlanePal/wiki/Premium)<br>
+- 📜 [Full Command Reference](https://github.com/DevJSTAR/PlanePal/wiki/Commands)<br>
+- ⚠ [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting)
+- 🚩 [Blacklisting](https://github.com/DevJSTAR/PlanePal/wiki/Blacklisting)<br>
+- 📄 [Terms of Service](https://github.com/DevJSTAR/PlanePal/wiki/Terms)<br>
+- 🔐 [Privacy Policy](https://github.com/DevJSTAR/PlanePal/wiki/Privacy)<br>
 
 ## How do I report a bug or suggest a feature?
 Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? [Click here](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting). Your input makes **PlanePal** better!
