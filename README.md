@@ -19,8 +19,9 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 - ℹ [About PlanePal](https://github.com/DevJSTAR/PlanePal/wiki/About-PlanePal)<br>
 - 💰 [Getting Started](https://github.com/DevJSTAR/PlanePal/wiki/Getting-Started)<br>
 - 🌟 [PlanePal Premium](https://github.com/DevJSTAR/PlanePal/wiki/Premium)<br>
-- 📜 [Full Command Reference](https://github.com/DevJSTAR/PlanePal/wiki/Commands)<br>
-- ⚠ [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting)
+- 📢 [Changelog](https://github.com/DevJSTAR/PlanePal/wiki/Changelog)<br>
+- 📜 [Full Command Reference](https://github.com/DevJSTAR/PlanePal/wiki/Command-Documentation)<br>
+- ⚠ [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting)<br>
 - 🚩 [Blacklisting](https://github.com/DevJSTAR/PlanePal/wiki/Blacklisting)<br>
 - 📄 [Terms of Service](https://github.com/DevJSTAR/PlanePal/wiki/Terms)<br>
 - 🔐 [Privacy Policy](https://github.com/DevJSTAR/PlanePal/wiki/Privacy)<br>
