@@ -13,7 +13,7 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 
 [Click here](https://discord.com/api/oauth2/authorize?client_id=1075453827676897362&permissions=689946610753&scope=bot%20applications.commands) to invite PlanePal to your server and start flying!
 
-![Image](https://i.imgur.com/3mS5uAD.png)
+[![Image](https://i.imgur.com/3mS5uAD.png)](https://github.com/DevJSTAR/PlanePal)
 
 ## [PlanePal Wiki](https://github.com/DevJSTAR/PlanePal/wiki)
 - ℹ [About PlanePal](https://github.com/DevJSTAR/PlanePal/wiki/About-PlanePal)<br>
