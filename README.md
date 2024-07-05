@@ -28,6 +28,6 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 - 🔒 [Privacy Policy](https://github.com/DevJSTAR/PlanePal/wiki/Privacy)<br>
 
 ## How do I report a bug or suggest a feature?
-Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? [Click here](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting). Your input makes **PlanePal** better!
+Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? Read the [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting) guide. Your input makes **PlanePal** better!
 
 <p align="center">JSTAR's Dévelopment Ⓒ︎ 2024</p>
