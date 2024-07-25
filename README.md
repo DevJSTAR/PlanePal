@@ -1,6 +1,6 @@
 # PlanePal
-[![GitHub stars](https://img.shields.io/github/stars/DevJSTAR/PlanePal.svg?style=social&label=Stars&style=flat)](https://github.com/DevJSTAR/PlanePal/stargazers)
-[![GitHub license](https://img.shields.io/github/license/DevJSTAR/PlanePal.svg)](https://github.com/DevJSTAR/PlanePal/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/devjstar/planepal.svg?style=social&label=Stars&style=flat)](https://github.com/devjstar/planepal/stargazers)
+[![GitHub license](https://img.shields.io/github/license/devjstar/planepal.svg)](https://github.com/devjstar/planepal/blob/master/LICENSE)
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/jstarsdev) 
 <br>
 [![DevServer](https://discord.com/api/guilds/1153672454426861598/widget.png?style=shield)](https://discord.gg/GbvXQXHY6Q)
@@ -16,18 +16,19 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 [![Image](https://i.imgur.com/3mS5uAD.png)](https://github.com/DevJSTAR/PlanePal)
 
 ## [PlanePal Wiki](https://github.com/DevJSTAR/PlanePal/wiki)
-- ℹ [About PlanePal](https://github.com/DevJSTAR/PlanePal/wiki/About-PlanePal)<br>
-- 💰 [Getting Started](https://github.com/DevJSTAR/PlanePal/wiki/Getting-Started)<br>
-- 🌟 [PlanePal Premium](https://github.com/DevJSTAR/PlanePal/wiki/Premium)<br>
-- 🏷 [Redeem Codes](https://github.com/DevJSTAR/PlanePal/wiki/Redeem-Codes)<br>
-- 📋 [Command Documentation](https://github.com/DevJSTAR/PlanePal/wiki/Command-Documentation)<br>
-- ⚠ [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting)<br>
-- 📢 [Changelog](https://github.com/DevJSTAR/PlanePal/wiki/Changelog)<br>
-- 🚩 [Blacklisting](https://github.com/DevJSTAR/PlanePal/wiki/Blacklisting)<br>
-- 📄 [Terms of Service](https://github.com/DevJSTAR/PlanePal/wiki/Terms)<br>
-- 🔒 [Privacy Policy](https://github.com/DevJSTAR/PlanePal/wiki/Privacy)<br>
+- [ℹ About PlanePal](https://github.com/devjstar/planepal/wiki/about-planepal)
+- [💰 Getting Started](https://github.com/devjstar/planepal/wiki/getting-started)
+- [🌟 PlanePal Premium](https://github.com/devjstar/planepal/wiki/planepal-premium)
+- 🏷 [Redeem Codes](https://github.com/devjstar/planepal/wiki/redeem-codes)<br>
+- [📋 Command Documentation](https://github.com/devjstar/planepal/wiki/command-documentation)
+- [⚠ Troubleshooting](https://github.com/devjstar/planepal/wiki/troubleshooting)
+- [📢 Changelog](https://github.com/devjstar/planepal/wiki/changelog)
+- [🚩 Blacklisting](https://github.com/devjstar/planepal/wiki/blacklisting)
+- [💳 Credits](https://github.com/devjstar/planepal/wiki/credits)
+- [📄 Terms of Service](https://github.com/devjstar/planepal/wiki/terms)
+- [🔒 Privacy Policy](https://github.com/devjstar/planepal/wiki/privacy)
 
 ## How do I report a bug or suggest a feature?
-Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? Read the [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/Troubleshooting) guide or join our [Support Server](https://discord.gg/GbvXQXHY6Q). Your input makes **PlanePal** better!
+Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? Read the [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/troubleshooting) guide or join our [Support Server](https://discord.gg/GbvXQXHY6Q). Your input makes **PlanePal** better!
 
 <p align="center">JSTAR's Dévelopment Ⓒ︎ 2024</p>
