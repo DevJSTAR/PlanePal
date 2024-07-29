@@ -15,17 +15,18 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 
 [![Image](https://i.imgur.com/3mS5uAD.png)](https://github.com/DevJSTAR/PlanePal)
 
-## [PlanePal Wiki](https://github.com/DevJSTAR/PlanePal/wiki)
-- [ℹ About PlanePal](https://github.com/devjstar/planepal/wiki/about-planepal)
-- [💰 Getting Started](https://github.com/devjstar/planepal/wiki/getting-started)
-- [🌟 PlanePal Premium](https://github.com/devjstar/planepal/wiki/planepal-premium)
+## [PlanePal Wiki](https://github.com/devjstar/planepal/wiki)
+- [ℹ About PlanePal](https://github.com/devjstar/planepal/wiki/about-planepal)<br>
+- [💰 Getting Started](https://github.com/devjstar/planepal/wiki/getting-started)<br>
+- [🌟 PlanePal Premium](https://github.com/devjstar/planepal/wiki/planepal-premium)<br>
 - [🏷 Redeem Codes](https://github.com/devjstar/planepal/wiki/redeem-codes)<br>
-- [📋 Command Documentation](https://github.com/devjstar/planepal/wiki/command-documentation)
-- [⚠ Troubleshooting](https://github.com/devjstar/planepal/wiki/troubleshooting)
-- [📢 Changelog](https://github.com/devjstar/planepal/wiki/changelog)
-- [🚩 Blacklisting](https://github.com/devjstar/planepal/wiki/blacklisting)
-- [💳 Credits](https://github.com/devjstar/planepal/wiki/credits)
-- [📄 Terms of Service](https://github.com/devjstar/planepal/wiki/terms)
+- [🥇 Achievements](https://github.com/devjstar/planepal/wiki/achievements)<br>
+- [📋 Command Documentation](https://github.com/devjstar/planepal/wiki/command-documentation)<br>
+- [⚠ Troubleshooting](https://github.com/devjstar/planepal/wiki/troubleshooting)<br>
+- [📢 Changelog](https://github.com/devjstar/planepal/wiki/changelog)<br>
+- [🚩 Blacklisting](https://github.com/devjstar/planepal/wiki/blacklisting)<br>
+- [💳 Credits](https://github.com/devjstar/planepal/wiki/credits)<br>
+- [📄 Terms of Service](https://github.com/devjstar/planepal/wiki/terms)<br>
 - [🔒 Privacy Policy](https://github.com/devjstar/planepal/wiki/privacy)
 
 ## How do I report a bug or suggest a feature?
