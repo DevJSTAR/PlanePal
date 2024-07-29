@@ -13,7 +13,7 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 
 [Click here](https://discord.com/api/oauth2/authorize?client_id=1075453827676897362&permissions=689946610753&scope=bot%20applications.commands) to invite PlanePal to your server and start flying!
 
-[![Image](https://i.imgur.com/3mS5uAD.png)](https://github.com/DevJSTAR/PlanePal)
+[![Image](https://i.imgur.com/3mS5uAD.png)](https://github.com/devjstar/planepal)
 
 ## [PlanePal Wiki](https://github.com/devjstar/planepal/wiki)
 - [ℹ About PlanePal](https://github.com/devjstar/planepal/wiki/about-planepal)<br>
@@ -30,6 +30,6 @@ In addition, owning a better plane increases the chances of attracting VIP guest
 - [🔒 Privacy Policy](https://github.com/devjstar/planepal/wiki/privacy)
 
 ## How do I report a bug or suggest a feature?
-Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? Read the [Troubleshooting](https://github.com/DevJSTAR/PlanePal/wiki/troubleshooting) guide or join our [Support Server](https://discord.gg/GbvXQXHY6Q). Your input makes **PlanePal** better!
+Got feedback or found a bug? Use the `report` command. Have ideas for new features? Drop it using `suggest`. Need help? Read the [Troubleshooting](https://github.com/devjstar/planepal/wiki/troubleshooting) guide or join our [Support Server](https://discord.gg/GbvXQXHY6Q). Your input makes **PlanePal** better!
 
 <p align="center">JSTAR's Dévelopment Ⓒ︎ 2024</p>
