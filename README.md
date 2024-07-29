@@ -1,7 +1,7 @@
 # PlanePal
 [![GitHub stars](https://img.shields.io/github/stars/devjstar/planepal.svg?style=social&label=Stars&style=flat)](https://github.com/devjstar/planepal/stargazers)
 [![GitHub license](https://img.shields.io/github/license/devjstar/planepal.svg)](https://github.com/devjstar/planepal/blob/master/LICENSE)
-[![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/jstarsdev) 
+[![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/jstarsdev)
 <br>
 [![DevServer](https://discord.com/api/guilds/1153672454426861598/widget.png?style=shield)](https://discord.gg/GbvXQXHY6Q)
 <!-- [![GuildCount](https://img.shields.io/badge/dynamic/json.svg?label=servers&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F240254129333731328&query=%24.guildCount&colorB=71A2B1)](https://discord.bots.gg/bots/240254129333731328) -->
