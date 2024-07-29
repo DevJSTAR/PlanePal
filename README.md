@@ -9,9 +9,9 @@
 ## Discord Plane Simulation Bot
 PlanePal is a Discord bot designed for controlling and managing virtual planes within the Discord platform. It allows users to engage in various activities, such as purchasing and upgrading planes to enhance take-offs and landings, ultimately earning more in-game currency. Users can also hire plane crews to improve their flight experience, buy temporary boosts or potions for a cash boost, and hire pilots to reduce the risk of crashes.
 
-In addition, owning a better plane increases the chances of attracting VIP guests, leading to higher earnings for each flight. Users can also establish a flight school within the bot, where they can teach virtual flight students, hire staff and teachers, and upgrade facilities to generate additional in-game currency
+In addition, owning a better plane increases the chances of attracting VIP guests, leading to higher earnings for each flight. Users can also establish a flight school within the bot, where they can teach virtual flight students, hire staff and teachers, and upgrade facilities to generate additional in-game currency. [Click here](https://discord.com/api/oauth2/authorize?client_id=1075453827676897362&permissions=689946610753&scope=bot%20applications.commands) to invite PlanePal to your server and start your flying journey!
 
-[Click here](https://discord.com/api/oauth2/authorize?client_id=1075453827676897362&permissions=689946610753&scope=bot%20applications.commands) to invite PlanePal to your server and start flying!
+Please read our [Terms of Service](https://github.com/devjstar/planepal/wiki/terms] and [Privacy Policy](https://github.com/devjstar/planepal/wiki/privacy) as well as [Discord's ToS](https://discord.com/terms) and [Discord's Privacy Policy](https://discord.com/privacy) before using the bot. Using PlanePal means you have agreed to our conditions.
 
 [![Image](https://i.imgur.com/3mS5uAD.png)](https://github.com/devjstar/planepal)
 
