@@ -29,6 +29,16 @@ PlanePal is a Discord bot designed for controlling and managing virtual planes w
 - [📄 Terms of Service](https://github.com/devjstar/planepal/wiki/terms)<br>
 - [🔒 Privacy Policy](https://github.com/devjstar/planepal/wiki/privacy)
 
+## 🌐 [PlanePal API](https://github.com/DevJSTAR/planepal-api)
+**PlanePal API** is a lightweight, RESTful API designed to deliver up-to-date information on PlanePal's server and member statistics. This API allows people to seamlessly integrate real-time data about PlanePal's user base into their applications or services.
+
+### API Features:
+Live Server Count: Retrieve the current number of Discord servers using PlanePal.
+Live Member Count: Get the total number of PlanePal members across all servers.
+
+### API Usage:
+For detailed integration instructions and code examples, read the [PlanePal API README](https://github.com/DevJSTAR/planepal-api/blob/main/README.md) file.
+
 ## 📜 Terms of Service & Privacy Policy
 We value your privacy and are committed to protecting your personal information. Please read our [Terms of Service](https://github.com/devjstar/planepal/wiki/terms) and [Privacy Policy](https://github.com/devjstar/planepal/wiki/privacy) for more details.
 
